@@ -1,0 +1,54 @@
+/* No CSS */
+/*# sourceMappingURL=style.css.map */
+.fine{
+    width: 500px;
+
+}
+
+.navbar-blue {
+    text-decoration: none;
+}
+
+.form {
+    background-image: url(images/contact\ form-\ background-shape-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+h5 {
+    font-size: 30px;
+}
+
+.form-button {
+    margin-left: 200px;
+    background-color: white;
+}
+
+span {
+    width: 70px;
+    height: 54px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    color: #344563;
+
+}
+
+p {
+
+    /* height: 53px; */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #344563;
+}
+
+/*# sourceMappingURL=styles.css.map */
